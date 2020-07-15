@@ -1,4 +1,5 @@
 # AppliedProgConcepts
+
 ELEC 3225 files
 
 These files are intended for Wentworth Institute of Technology students taking ELEC 3225 (Applied Programming Concepts).
